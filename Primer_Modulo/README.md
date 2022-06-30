@@ -32,10 +32,14 @@ Pasos a seguir para ejecutar:
 - Convertir el fichero en un ejecutable siguiendo la primera linea de código
 - Ejecutar el fichero con la segunda linea de código
 
-
 ```bash
 chmod +x ./Ejercicio3.sh
 ./Ejercicio3.sh 
+```
+- Para conocer el funcionamiento del script
+
+```
+./Ejercicio3.sh -h
 ```
 
 ## Cuarto ejercicio
