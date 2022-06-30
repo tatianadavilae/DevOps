@@ -27,9 +27,15 @@ mv file2.txt ../empty
 
 Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo
 
+Pasos a seguir para ejecutar:
+- Descargar el fichero Ejercicio3.sh
+- Convertir el fichero en un ejecutable siguiendo la primera linea de código
+- Ejecutar el fichero con la segunda linea de código
+
+
 ```bash
 chmod +x ./Ejercicio3.sh
-./Ejercicio.sh 
+./Ejercicio3.sh 
 ```
 
 ## Cuarto ejercicio
