@@ -44,4 +44,20 @@ chmod +x ./Ejercicio3.sh
 
 ## Cuarto ejercicio
 
+Opcional - Crea un script de bash que descargue el contenido de una página web a un fichero.
+`
+Pasos a seguir para ejecutar:
+- Descargar el fichero Ejercicio_Opcional.sh
+- Convertir el fichero en un ejecutable siguiendo la primera linea de código
+- Ejecutar el fichero con la segunda linea de código, pasar como primer parámetro la url y como segundo parámetro la palabra que se busca.
+- El fichero se nombrará automáticamente como la primera cadena de texto que aparece después del '.', si la url es 'www.ugr.es' el contenido se descargará en el fichero 'ugr.txt'. 
 
+``` bash
+chmod +x ./Ejercicio_Opcional.sh
+./Ejercicio_Opcional.sh
+```
+- Para conocer el funcionamiento del script
+
+```
+./Ejercicio_Opcional.sh -h
+```

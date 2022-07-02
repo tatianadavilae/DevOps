@@ -1,4 +1,10 @@
 #!/usr/bin/bash
+if [[ $# == 1 && $1 == '-h' ]]
+then
+	echo 'Este script descarga el contenido de la url y busca en el la palabra indicada'
+	echo 'Toma dos argumentos: url palabra'
+	echo 'Ejemplo: ./Ejercicio_Opcional.sh https://www.ugr.es/ "granada" '
+fi
 
 if [[ $# != 2 ]]
 then 
