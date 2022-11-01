@@ -5,13 +5,9 @@
 Crea mediante comandos de bash la siguiente jerarquía de ficheros y directorios.
 
 ```bash
-mkdir foo
-cd foo/
-mkdir dummy/
-mkdir empty/
-cd dummy/
-touch file{1,2}.txt
-echo 'Me encanta la bash!!!!' > file1.txt
+mkdir -p ./foo/{dummy,empty}/
+touch ./foo/dummy/file{1,2}.txt	
+echo 'Me encanta la bash!!!!' > ./foo/dummy/file1.txt
 ```
 
 ## Segundo ejercicio
@@ -19,8 +15,8 @@ echo 'Me encanta la bash!!!!' > file1.txt
 Mediante comandos de bash, vuelca el contenido de file1.txt a file2.txt y mueve file2.txt a la carpeta empty.
 
 ```bash
-cp file1.txt file2.txt
-mv file2.txt ../empty  
+cat ./foo/dummy/file1.txt > ./foo/dummy/file2.txt
+mv ./foo/dummy/file2.txt ./foo/empty/ 
 ```
 
 ## Tercer ejercicio

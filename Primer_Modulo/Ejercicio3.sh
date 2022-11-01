@@ -2,30 +2,23 @@
 
 if [[ $1 == -h ]]
 then
-       	echo 'Admite un argumento, una cadena de texto que no puede contener número ni signos de puntuación se alacenará en los ficheros ./foo/dummy/file1.txt y ./foo/empty/file2.txt'
-        exit 0
-fi
+    echo 'Admite un argumento, una cadena de texto que no puede contener número ni signos de puntuación se almacenará en los ficheros ./foo/dummy/file1.txt y ./foo/empty/file2.txt'
+	exit 0
 
-if [[ $(grep -c [[:alpha:]]  <<<  $1) != 0  ]]
+elif [[ $# == 1 ]]
 then
-	if [[ $# > 1 ]] 
+	mkdir -p ./foo/{dummy,empty}/
+	touch ./foo/dummy/file{1,2}.txt	
+	if [[ $1 != "" ]]
 	then
-		echo 'Demasiados argumentos, solo se admite un argumento.'
-	else 
-		mkdir foo
-		cd foo
-		mkdir dummy
-		mkdir empty
-		cd dummy
-		touch file{1,2}.txt
-		if [[ $1 > 0 ]] 
-       		then echo "$1" > file1.txt
-		else
-	       	echo 'Que me gusta la bash!!!!' > file1.txt
-		fi
-		cp file1.txt file2.txt
-		mv file2.txt ../empty/
+		echo "$1" > ./foo/dummy/file1.txt
+	else
+		echo 'Que me gusta la bash!!!!' > ./foo/dummy/file1.txt
 	fi
-else 
-	echo 'Tipo de argumento no valido'
+	cat ./foo/dummy/file1.txt > ./foo/dummy/file2.txt
+	mv ./foo/dummy/file2.txt ./foo/empty/
+
+else
+	echo 'Número de argumentos incorrecto, se necesita un argumento.'
+	exit 1
 fi

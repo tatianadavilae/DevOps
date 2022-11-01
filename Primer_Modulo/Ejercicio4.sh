@@ -1,18 +1,18 @@
 #!/usr/bin/bash
 if [[ $# == 1 && $1 == '-h' ]]
 then
-	echo 'Este script descarga el contenido de la url y busca en el la palabra indicada'
-	echo 'Toma dos argumentos: url palabra'
-	echo 'Ejemplo: ./Ejercicio_Opcional.sh https://www.ugr.es/ granada '
+	echo 'Este script descarga el contenido de la web "https://www.ugr.es/" y busca en el la palabra indicada'
+	echo 'Toma un argumento: palabra'
+	echo 'Ejemplo: ./Ejercicio_Opcional.sh granada '
 	exit 0
 fi
 
-if [[ $# != 2 ]]
+if [[ $# != 1 ]]
 then 
-	echo 'Se necesitan únicamente dos parámetros para ejecutar este script'
+	echo 'Número de argumentos equivocado'
 else
-	url="$1"
-	word="$2"
+	url="https://www.ugr.es/"
+	word=$1
 	#Descargo el contenido de la página web
 	curl --silent $url >> file.txt
 	
