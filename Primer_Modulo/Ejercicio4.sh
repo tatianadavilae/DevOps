@@ -14,17 +14,18 @@ else
 	url="https://www.ugr.es/"
 	word=$1
 	#Descargo el contenido de la página web
-	curl --silent $url >> file.txt
-	
-	if [[ $(grep -ci word file.txt) = 1 ]]
+	curl --silent $url > file.txt
+	occurrence=$(grep -i $word file.txt -o| wc -w )
+
+	if [[ $occurrence == 1 ]]
 	then
-		echo "La palabra $word aparece 1 vez"
+		echo "La palabra $word aparece $occurrence vez"
 		echo "Aparece en la línea: $(grep -ni $word file.txt)"
 	else
-		if [[ $(grep -ic $word file.txt) > 1 ]]
+		if [[ $occurrence > 1 ]]
 		then 
-			echo "La palabra $word aparece  $(grep -ic $word file.txt) veces"
-			echo "Aparece por primera vez en la línea $(grep -in $word file.txt | head -n 1 | grep [0-9]* -o)"
+			echo "La palabra $word aparece  $occurrence veces"
+			echo "Aparece por primera vez en la línea $(grep -in $word file.txt | head -n 1 | grep [0-9]*\: -o | grep [0-9]* -o)"
 			
 		else 
 		echo "La palabra no se ha encontrado en la página web $url"

@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-if [[ $1 == -h ]]
+if [[ $1 == "-h" ]]
 then
-    echo 'Admite un argumento, una cadena de texto que no puede contener número ni signos de puntuación se almacenará en los ficheros ./foo/dummy/file1.txt y ./foo/empty/file2.txt'
+    echo 'Admite un argumento, una cadena de texto que se almacenará en los ficheros ./foo/dummy/file1.txt y ./foo/empty/file2.txt'
 	exit 0
 
 elif [[ $# == 1 ]]
