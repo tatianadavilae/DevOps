@@ -25,45 +25,35 @@ Crear un script de bash que agrupe los pasos de los ejercicios anteriores y adem
 
 Pasos a seguir para ejecutar:
 - Descargar el fichero Ejercicio3.sh
-- Convertir el fichero en un ejecutable
+- Convertir el fichero en un ejecutable siguiendo la primera linea de código
+- Ejecutar el fichero con la segunda linea de código
 
 ```bash
 chmod +x ./Ejercicio3.sh
-```
-- Ejecutar el fichero
-
-```bash
 ./Ejercicio3.sh 
 ```
-
 - Para conocer el funcionamiento del script
 
-```bash
+```
 ./Ejercicio3.sh -h
 ```
 
 ## Cuarto ejercicio
 
-Crea un script de bash que descargue el contenido de una página web a un fichero y busque en dicho fichero una palabra dada como parámetro al invocar el script
-
-La URL de dicha página web será una constante en el script.
-
-## Opcional
-
-Modifica el ejercicio anterior de forma que la URL de la página web se pase por parámetro y también verifique que la llamada al script sea correcta
-
+Opcional - Crea un script de bash que descargue el contenido de una página web a un fichero.
+`
 Pasos a seguir para ejecutar:
 - Descargar el fichero Ejercicio_Opcional.sh
 - Convertir el fichero en un ejecutable siguiendo la primera linea de código
 - Ejecutar el fichero con la segunda linea de código, pasar como primer parámetro la url y como segundo parámetro la palabra que se busca.
 - El fichero se nombrará automáticamente como la primera cadena de texto que aparece después del '.', si la url es 'www.ugr.es' el contenido se descargará en el fichero 'ugr.txt'. 
 
-```bash
+``` bash
 chmod +x ./Ejercicio_Opcional.sh
 ./Ejercicio_Opcional.sh
 ```
 - Para conocer el funcionamiento del script
 
-```bash
+```
 ./Ejercicio_Opcional.sh -h
 ```
