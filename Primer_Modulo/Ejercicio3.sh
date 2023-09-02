@@ -4,11 +4,12 @@ if [[ $1 == "-h" ]]
 then
     echo 'Admite un argumento, una cadena de texto que se almacenará en los ficheros ./foo/dummy/file1.txt y ./foo/empty/file2.txt'
 	exit 0
+fi
 
-elif [[ $# == 1 ]]
+if [[ ($# == 1) || ($1 == "")]]
 then
 	mkdir -p ./foo/{dummy,empty}/
-	touch ./foo/dummy/file{1,2}.txt	
+	touch ./foo/dummy/file{1,2}.txt
 	if [[ $1 != "" ]]
 	then
 		echo "$1" > ./foo/dummy/file1.txt
