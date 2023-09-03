@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-if [[ $# == 1 && $1 == '-h' ]]
+if [[($# == 1) && ($1 == '-h') ]]
 then
 	echo 'Este script descarga el contenido de la web "https://www.ugr.es/" y busca en el la palabra indicada'
 	echo 'Toma un argumento: palabra'

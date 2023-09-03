@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-grid">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4060598-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-4060598-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-1VP321ZLLY", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<meta name="geo.region" content="ES" />
+<meta name="geo.placename" content="Granada, España" />
+<meta property="og:site_name" content="Universidad de Granada" />
+<meta http-equiv="content-language" content="es" />
+<link rel="canonical" href="https://www.ugr.es" />
+<meta property="og:type" content="website" />
+<meta name="description" content="Fundada en 1531, institución de carácter docente e investigador. Con más de 54000 estudiantes, es primer destino Erasmus y está en posiciones destacadas en rankings como Shanghai" />
+<meta property="og:url" content="https://www.ugr.es" />
+<meta property="og:title" content="Página de inicio | Universidad de Granada" />
+<meta property="og:image" content="https://www.ugr.es/themes/custom/ugr/screenshot.png" />
+<meta property="og:image:width" content="400px" />
+<meta property="og:image:height" content="400px" />
+<meta property="og:image:alt" content="Logo Universidad de Granada (UGR)" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>window.euCookieComplianceLoadScripts = function(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/www.google-analytics.com\/analytics.js";document.body.appendChild(scriptTag);}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #BABABA} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #000000;} .eu-cookie-withdraw-tab { border-color: #000000;}</style>
+<link rel="shortcut icon" href="/themes/custom/ugr/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Página de inicio | Universidad de Granada</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_kHl1qyEWp7ZZhFdGCJQ81BKORXpmsJW5fLz8uvuEIrw.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_rhD2Pr-SYOETEt_5YDk8h0iZi7oVO47jxuufudt35oA.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"home","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,classy\/base,classy\/messages,core\/drupal.dropbutton,core\/html5shiv,core\/normalize,core\/picturefill,da_vinci\/global-css,da_vinci\/global-js,dropdown_language\/dropdown-language-selector,eu_cookie_compliance\/eu_cookie_compliance_default,google_analytics\/google_analytics,obfuscate_email\/default,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,ugr\/global-css,ugr\/global-js,ugr_ckeditor_liststyle\/ugr_ckeditor_list,views\/views.ajax,views\/views.module","theme":"ugr","theme_token":null},"ajaxTrustedUrl":{"\/buscar":true},"google_analytics":{"account":{},"trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:62c855788e6c84017389eadaab038336afd598776ed0e3e030467ecccd6faaa9":{"view_name":"agenda_cultural","view_display_id":"block_1","view_args":"","view_path":"\/home","view_base_path":"visitantes\/agenda-cultural\/portada","view_dom_id":"62c855788e6c84017389eadaab038336afd598776ed0e3e030467ecccd6faaa9","pager_element":0},"views_dom_id:de9a99f6c3ae7dd4db36ca257a1439366b2ac4afa7c0bc6ac6f57fd7a4bd0abb":{"view_name":"noticias","view_display_id":"block_news_homepage","view_args":"","view_path":"\/home","view_base_path":"universidad\/noticias","view_dom_id":"de9a99f6c3ae7dd4db36ca257a1439366b2ac4afa7c0bc6ac6f57fd7a4bd0abb","pager_element":0}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EEste portal web \u00fanicamente utiliza cookies con finalidad t\u00e9cnica, no recaba ni cede datos de car\u00e1cter personal de los usuarios sin su conocimiento. \u003C\/h2\u003E\n\u003Cp\u003E\u003Ca href=\u0022https:\/\/www.ugr.es\/condiciones-legales\u0022\u003EM\u00e1s informaci\u00f3n\u003C\/a\u003E\u003C\/p\u003E\n\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAceptar\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ERechazar\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAceptar\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ERechazar\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/condiciones-legales","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"es","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EOpciones de privacidad\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EUsamos cookies para mejorar la experiencia de usuario\u003C\/h2\u003E\n\u003Cp\u003EHas dado tu consentimiento para el uso de cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003ERetirar consentimiento\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"729fa07aa6a3facd426fcbb94f2cf9d90ac94632861d5def09fbc66e2973dfc6"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+<script src="/sites/default/files/js/js_E4f5j4SijlofD0Ez0g0Opwe1-BOUysvUgn-4AsxYWW4.js"></script>
+
+
+
+      <script> !(function(b, o, t) { ((o = b.createElement('script')).src =
+  'https://chat.1millionbot.com/app.js'), (o.charset = 'UTF-8'), (o.async
+  = !0), (o.onload = function() { $omb.init({ key:
+  '62c53a978a2ea8f366347672' }); }), (t = b.getElementsByTagName( 'script'
+  )[0]).parentNode.insertBefore(o, t)})(document); </script>
+
+  </head>
+  <body class="layout-no-sidebars page-node-página-de-inicio path-frontpage">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Pasar al contenido principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner" aria-label="Cabecera de sitio">
+          <div class="top-bar">
+          <div class="region region-top-bar">
+    <div id="block-dropdownlanguage" class="block block-dropdown-language block-dropdown-languagelanguage-interface">
+  
+    
+      <fieldset class="js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Switch Language</span>
+  </legend>
+  <div class="fieldset-wrapper">
+              <div class="dropbutton-wrapper"><div class="dropbutton-widget"><ul class="dropdown-language-item dropbutton"><li class="es"><span class="language-link active-language" lang="es" hreflang="es">Español</span></li><li class="en"><a href="/en" class="language-link" lang="en" hreflang="en">English</a></li></ul></div></div>
+          </div>
+</fieldset>
+
+  </div>
+<div id="block-socialmedialinks" class="block-social-media-links block block-social-media-links-block">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/universidadgranada/"  target="_blank" aria-label="Facebook" title="Facebook" >
+        <span class='fab fa-facebook-f fa-2x'></span> Facebook
+      </a>
+    </li>
+      <li>
+      <a href="https://www.twitter.com/CanalUGR"  target="_blank" aria-label="Twitter" title="Twitter" >
+        <span class='fab fa-twitter fa-2x'></span> Twitter
+      </a>
+    </li>
+      <li>
+      <a href="https://www.youtube.com/user/UGRmedios"  target="_blank" aria-label="Youtube" title="Youtube" >
+        <span class='fab fa-youtube fa-2x'></span> Youtube
+      </a>
+    </li>
+      <li>
+      <a href="https://www.instagram.com/canalugr/"  target="_blank" aria-label="Síguenos en instagram" title="Síguenos en instagram" >
+        <span class='fab fa-instagram fa-2x'></span> Instagram
+      </a>
+    </li>
+  </ul>
+
+  </div>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-ugr-search" role="search">
+  
+    
+      <form action="/buscar" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Buscar</label>
+        <input title="Escriba lo que quiere buscar." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Buscar" />
+</div>
+
+</form>
+
+  </div>
+<div id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.ugr.es/servicios/correo-electronico"  target="_blank" aria-label="Correo institucional" title="Correo institucional" >
+        <span class='fa fa-envelope fa-2x'></span> E-Mail - UGR
+      </a>
+    </li>
+      <li>
+      <a href="https://directorio.ugr.es"  target="_blank" aria-label="Directorio" title="Directorio" >
+        <span class='fa fa-address-book fa-2x'></span> Directorio UGR
+      </a>
+    </li>
+      <li>
+      <a href="https://oficinavirtual.ugr.es/ai/"  target="_blank" aria-label="Oficina Virtual / Acceso Identificado" title="Oficina Virtual / Acceso Identificado" >
+        <span class='fa fa-user-friends fa-2x'></span> Acceso identificado
+      </a>
+    </li>
+      <li>
+      <a href="https://sede.ugr.es/"  target="_blank" aria-label="Sede electrónica" title="Sede electrónica" >
+        <span class='fa fa-laptop-house fa-2x'></span> Sede UGR
+      </a>
+    </li>
+      <li>
+      <a href="https://www.ugr.es/info"  target="_blank" aria-label="Portal de atención al usuario infoUGR" title="Portal de atención al usuario infoUGR" >
+        <span class='fa fa-info fa-2x'></span> Info UGR
+      </a>
+    </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+      </div>
+        <div class="site-header">      
+                <div class="region region-secondary-menu">
+    
+<nav role="navigation" aria-labelledby="block-ugr-main-menu-menu" id="block-ugr-main-menu" class="block block-menu navigation menu--main">
+            
+  <label class="visually-hidden" id="block-ugr-main-menu-menu">Navegación principal</label>
+  
+
+        
+
+              <ul class="clearfix menu">
+                    <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Universidad</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/universidad/organizacion/saludo-rector" >Organización</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="https://www.ugr.es/universidad/historia/" >Historia</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/universidad/normativa/basica" >Normativa</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/universidad/plan-estrategico" >Plan Estratégico</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/universidad/servicios" >Servicios</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/universidad/noticias" >Noticias</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Estudiantes</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/estudiantes/informacion-general" >Información general</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/estudiantes/grados" >Grados</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/estudiantes/master-doctorados" >Máster y doctorados</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/estudiantes/alojamiento/servicio-de-alojamiento" >Alojamiento Estudiantes</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/estudiantes/movilidad" >Movilidad e intercambio</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Personal</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/personal/servicios/informacion-general" >Servicios</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/personal/pas/informacion-general" >PAS</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/personal/pdi/informacion-general" >PDI</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/personal/directorio" >Directorio</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Empresas</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/empresas/investigacion" >Investigación</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/empresas/transferencia" >Transferencia</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/empresas/portal-de-facturas" >Portal de facturas</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/empresas/contratacion" >Contratación</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/empresas/emprendimiento" >Emprendimiento</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/empresas/practicas" > Prácticas</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Visitantes</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/visitantes/agenda-cultural" > Agenda cultural </a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/visitantes/alojamiento/granada" > Alojamiento</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/visitantes/empleo" >Empleo</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/visitantes/tienda-universitaria" >Tienda universitaria</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/universidad/servicios/educaugr" >Recursos Educativos</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/visitantes/mecenazgo" >Mecenazgo</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        
+                <a href="/"  aria-expanded="false" aria-haspopup="true"  >Contacto</a>
+      
+                  
+              <ul class="menu">
+                    <li class="menu-item">
+        
+                <a href="/contacto/enviar-mensaje" >Enviar mensaje</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/contacto/como-llegar/datos-de-contacto-de-la-universidad-de-granada" >¿Dónde estamos?</a>
+      
+              </li>
+                <li class="menu-item">
+        
+                <a href="/contacto/buscar-personas-entidades" >Buscar Personas/Entidades</a>
+      
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              <div class="region region-header">
+    <div id="block-subsite-branding" class="clearfix block block-system block-system-branding-block">
+  
+    
+     
+    <div class="site-name">
+                                    <a href="/" title="Home" class="site-logo logoSVG">
+                    <img src="/themes/custom/ugr/ugr-horizontal-color.svg" alt="Universidad de Granada"/>
+                </a> 
+                        </div>  
+
+    
+    
+</div>
+<div id="block-dropdownlanguage-3" class="block block-dropdown-language block-dropdown-languagelanguage-interface">
+  
+    
+      <fieldset class="js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Switch Language</span>
+  </legend>
+  <div class="fieldset-wrapper">
+              <div class="dropbutton-wrapper"><div class="dropbutton-widget"><ul class="dropdown-language-item dropbutton"><li class="es"><span class="language-link active-language" lang="es" hreflang="es">Español</span></li><li class="en"><a href="/en" class="language-link" lang="en" hreflang="en">English</a></li></ul></div></div>
+          </div>
+</fieldset>
+
+  </div>
+<div id="block-globalsearchicon" class="block block-block-content block-block-content60a7a0d0-ec9e-4546-9198-86c762bd3510">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><span class="search-icon"></span></div>
+      
+  </div>
+<div id="block-globalburgermenu" class="block block-block-content block-block-content81103a58-c824-4358-8ed5-4760d037f6bb">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><span class="burger-icon"></span></div>
+      
+  </div>
+
+  </div>
+
+    </div>    
+            <div class="region region-searcher">
+    <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form-2" id="block-formulariodebusqueda" role="search">
+  
+    
+      <form action="/buscar" method="get" id="search-block-form--2" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys--2" class="visually-hidden">Buscar</label>
+        <input title="Escriba lo que quiere buscar." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Buscar" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+      </header>
+  
+        <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+  
+  
+        <div class="region region-breadcrumb">
+    <div id="block-ugr-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <label id="system-breadcrumb" class="visually-hidden">Sobrescribir enlaces de ayuda a la navegación</label>
+    <ol>
+          <li>
+                  Home
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+  
+  
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div id="block-ugr-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title">Universidad de Granada</h1>
+
+
+  </div>
+<div id="block-ugr-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="full-layout">
+      <div id="first" class="section region-first">
+      <div class="block-region-first"><div class="views-element-container block block-views block-views-blockslider-block-1">
+  
+    
+      <div><div class="banda-derecha view view-slider view-id-slider view-display-id-block_1 js-view-dom-id-d1a986edde15f7c7eb820dc695584ea6934c5ab46f1d5bfbaf196c5c7d9ca9d2">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_slider_1dpr_0_479_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=FPYEAGCy 1x, /sites/default/files/styles/home_slider_2dpr_0_479_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=7g9GmURO 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_slider_1dpr_480_895_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=vgj_ArQt 1x, /sites/default/files/styles/home_slider_2dpr_480_895_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=5NJKU7wd 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_slider_1dpr_896_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=RGfGml72 1x, /sites/default/files/styles/home_slider_2dpr_896_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.webp?itok=qO-EkgpX 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_slider_1dpr_0_479_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=FPYEAGCy 1x, /sites/default/files/styles/home_slider_2dpr_0_479_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=7g9GmURO 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_slider_1dpr_480_895_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=vgj_ArQt 1x, /sites/default/files/styles/home_slider_2dpr_480_895_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=5NJKU7wd 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_slider_1dpr_896_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=RGfGml72 1x, /sites/default/files/styles/home_slider_2dpr_896_/public/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg?itok=qO-EkgpX 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/cabecera/2023-07/plataforma_docencia_slider_ugr.jpg" alt="Creatividad PRADO 2023-2024" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-nothing"><div class="field-content"><div class="wrapper-card">
+<h2>Nuevo PRADO</h2>
+<div class="field_slider_element_texto">Curso 2023/2024</div>
+<div class="field_slider_element_link"><a href="/destacado/nuevo-prado-curso-23-24">Leer más</a></div>
+</div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+</div>
+    </div>
+        <div id="second" class="section region-second">
+      <div class="block-region-second"><div class="views-element-container block block-views block-views-blocknoticias-block-news-homepage">
+  
+      <h2>Noticias</h2>
+    
+      <div><div class="vertical view view-noticias view-id-noticias view-display-id-block_news_homepage js-view-dom-id-de9a99f6c3ae7dd4db36ca257a1439366b2ac4afa7c0bc6ac6f57fd7a4bd0abb">
+  
+    
+      
+      <div class="view-content">
+          <div class="card views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=MVtFhyfi 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=e8BV2dV8 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=AdQmuS4_ 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=5wRrpABI 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=jGdRg4jO 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.webp?h=84656561&amp;itok=2kDrd8vr 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=MVtFhyfi 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=e8BV2dV8 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=AdQmuS4_ 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=5wRrpABI 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=jGdRg4jO 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg?h=84656561&amp;itok=2kDrd8vr 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/noticias/portada/2023-08/MAR%C3%8DA%2010.jpeg" alt="preparacion maria perez ugr" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/maria-perez-preparo-mundial-atletismo-budapest-ugr"><div class="card-main-wrapper">
+<div class="card-main-date">
+25 Ago
+</div>
+<div class="card-main-title">La bicampeona María Pérez preparó el Mundial de Atletismo de Budapest junto a científicos de la UGR</div>
+</div>
+</a>
+
+</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-imagen-galeria"><div class="field-content"><article class="media media-galeria-noticias view-mode-default media--type- media--unpublished">
+  
+      
+            <div class="field field--name-field-imagen-noticias field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=eVqHt-EK 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=zGHGHQc2 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=XTuYRIJ9 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=DOoRz_xV 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=YfLapuNY 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.webp?itok=Nn7c2ZvT 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=eVqHt-EK 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=zGHGHQc2 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=XTuYRIJ9 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=DOoRz_xV 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=YfLapuNY 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg?itok=Nn7c2ZvT 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/gallery/noticias/investigadora-laboratorio-experimento_noticia.jpg" alt="Investigadora realizando un experimento en laboratorio" typeof="foaf:Image" />
+
+  </picture>
+
+</div>
+      
+  </article>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/ugr-segunda-espana-ranking-shanghai"><div class="card-main-wrapper">
+<div class="card-main-date">
+15 Ago
+</div>
+<div class="card-main-title">La UGR se sitúa como la segunda mejor universidad de España según la nueva edición del Ranking de Shanghai</div>
+</div>
+</a>
+
+</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=gi1yXOuY 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=MJk97FHk 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=aFVV9o6W 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=z6gIr0Vb 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=3rGz-lNi 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.webp?h=b7ae21aa&amp;itok=TtqmH4Z1 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=gi1yXOuY 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=MJk97FHk 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=aFVV9o6W 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=z6gIr0Vb 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=3rGz-lNi 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png?h=b7ae21aa&amp;itok=TtqmH4Z1 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/imagenes/noticias/portada/2023-07/verano%20ugr%20%281%29.png" alt="verano ugr" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/ugr-os-desea-felices-vacaciones"><div class="card-main-wrapper">
+<div class="card-main-date">
+31 Jul
+</div>
+<div class="card-main-title">La UGR os desea felices vacaciones</div>
+</div>
+</a>
+
+</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=8Q6KThXf 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=ub72m6P_ 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=SIKDkorw 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=FV5YYhTm 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=hz0RGvHU 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/Palermo1.webp?itok=RVvh2HSX 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=8Q6KThXf 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=ub72m6P_ 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=SIKDkorw 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=FV5YYhTm 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=hz0RGvHU 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/Palermo1.jpg?itok=RVvh2HSX 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/noticias/portada/2023-07/Palermo1.jpg" alt="migrants palermo" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/ugr-participa-actividades-finales-proyecto-erasmus-migrants"><div class="card-main-wrapper">
+<div class="card-main-date">
+31 Jul
+</div>
+<div class="card-main-title">La UGR participa en las actividades finales del Proyecto Erasmus+ MIGRANTS celebradas en la Universidad de Palermo</div>
+</div>
+</a>
+
+</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=ihHsy6Dv 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=R02--6aB 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=kq4AXr0P 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=isBxHQER 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=fEhzQ05a 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.webp?h=615043c5&amp;itok=o3Ik5ZA1 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=ihHsy6Dv 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=R02--6aB 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=kq4AXr0P 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=isBxHQER 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=fEhzQ05a 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg?h=615043c5&amp;itok=o3Ik5ZA1 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/noticias/portada/2023-07/running-gf622c0743_1280.jpg" alt="mujer corriendo" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/programa-ejercicio-fisico-atope-es-seguro-beneficioso-mujeres-cancer-mama"><div class="card-main-wrapper">
+<div class="card-main-date">
+31 Jul
+</div>
+<div class="card-main-title">Un estudio revela que el programa de ejercicio físico ATOPE es seguro y beneficioso para mujeres con cáncer de mama</div>
+</div>
+</a>
+
+</span></div></div>
+    <div class="card views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=dkukOf1L 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=Tl3sxfVf 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=2NBuWncc 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=7485GrIR 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=iQss7Zw9 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/Figure%202.webp?itok=FNqULAEY 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_0_479_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=dkukOf1L 1x, /sites/default/files/styles/home_noticia_2dpr_0_479_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=Tl3sxfVf 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_480_895_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=2NBuWncc 1x, /sites/default/files/styles/home_noticia_2dpr_480_895_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=7485GrIR 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_noticia_1dpr_896_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=iQss7Zw9 1x, /sites/default/files/styles/home_noticia_2dpr_896_/public/imagenes/noticias/portada/2023-07/Figure%202.jpg?itok=FNqULAEY 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/noticias/portada/2023-07/Figure%202.jpg" alt="Foto del manuscrito hallado en el Museo Sefardí de Toledo" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="http://www.ugr.es/universidad/noticias/nueva-inscripcion-cuneiforme-lengua-sumeria"><div class="card-main-wrapper">
+<div class="card-main-date">
+31 Jul
+</div>
+<div class="card-main-title">Descubren en un manuscrito del Museo Sefardí de Toledo una nueva inscripción cuneiforme en lengua sumeria</div>
+</div>
+</a>
+
+</span></div></div>
+
+    </div>
+  
+          <div class="more-link"><a href="/universidad/noticias">Ver todas las noticias</a></div>
+
+      </div>
+</div>
+
+  </div>
+</div>
+    </div>
+        <div id="third" class="section region-third">
+      <div class="block-region-third">
+<nav role="navigation" aria-labelledby="-menu" class="block block-menu navigation menu--enlaces-de-interes">
+      
+  <label id="-menu">Enlaces de interés</label>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://sede.ugr.es/">Sede electrónica</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://oficinavirtual.ugr.es/ai/">Oficina Virtual (A.identificado)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://biblioteca.ugr.es">Biblioteca</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://prado.ugr.es/">PRADO</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://directorio.ugr.es/">Directorio universitario</a>
+              </li>
+                <li class="menu-item">
+        <a href="/empresas/investigacion" data-drupal-link-system-path="node/4460">Investigación</a>
+              </li>
+                <li class="menu-item">
+        <a href="/empresas/portal-de-facturas" data-drupal-link-system-path="node/4466">Portal de Facturas</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/normativa/estatutos" data-drupal-link-system-path="node/4604">Estatutos</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://transparente.ugr.es/">Portal de Transparencia</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://calidad.ugr.es/">Calidad</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/plan-estrategico" data-drupal-link-system-path="node/34223">Plan Estratégico UGR 2031</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="views-element-container block block-views block-views-blockcomunicaciones-oficiales-block-1">
+  
+      <h2>Comunicaciones oficiales</h2>
+    
+      <div><div class="view-comunicaciones-oficiales view view-id-comunicaciones_oficiales view-display-id-block_1 js-view-dom-id-7cd04af0a7c76204b6cbb68c1279cd4642b69785463526a649341944c73ad6cd">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/banner%20automatr%C3%ADcula%20grados%202023-2024.png" width="464" height="122" alt="Automatrícula Grados 2023-2024" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/automatricula-grados-2023-2024" hreflang="es">Automatrícula Grados 2023-2024</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/banner-campa%C3%B1a-titulos-propios.jpg" width="464" height="122" alt="Banner oferta de títulos propios UGR" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/oferta-titulos-propios-ugr" hreflang="es">Oferta de Títulos Propios de la UGR</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/banner-admision-doctorado.png" width="464" height="122" alt="banner admisión a doctorado" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/solicitud-admision-programas-doctorado" hreflang="es">Solicitud de admisión programas de doctorado</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/banner-idss2023.png" width="464" height="122" alt="IDSS 2023" title="IDSS 2023023" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/international-doctoral-summer-schools" hreflang="es">International Doctoral Summer Schools</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/Elecciones%20Sindicales%202023%20%E2%80%93%20PTGAS%20Laboral.png" width="968" height="255" alt="banner Elecciones sindicales 2023 - PTGAS Laboral" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/elecciones-sindicales-2023-ptgas-laboral" hreflang="es">Elecciones sindicales 2023 - PTGAS Laboral</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-agenda-imagen"><div class="field-content">  <img src="/sites/default/files/comunicados-oficiales/banner-infougr.png" width="464" height="122" alt="Banner infougr" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/comunicaciones-oficiales/portal-informacion-consulta-infougr" hreflang="es">Portal de información y consulta info/UGR/</a></span></div></div>
+
+    </div>
+  
+          <div class="more-link"><a href="/comunicaciones-anteriores">Comunicaciones anteriores</a></div>
+
+      </div>
+</div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockagenda-cultural-block-1">
+  
+      <h2>Agenda Cultural</h2>
+    
+      <div><div class="view-agenda-cultural view view-id-agenda_cultural view-display-id-block_1 js-view-dom-id-62c855788e6c84017389eadaab038336afd598776ed0e3e030467ecccd6faaa9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-shared-featured-image"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_multimedia.webp?itok=ed-4TQO8 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_multimedia.webp?itok=A_JE3RlH 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_multimedia.webp?itok=6Ai_lW2- 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_multimedia.webp?itok=sjtP9sjA 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_multimedia.webp?itok=RCDUvAGm 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_multimedia.webp?itok=wT-o0K-g 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_multimedia.png?itok=ed-4TQO8 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_multimedia.png?itok=A_JE3RlH 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_multimedia.png?itok=6Ai_lW2- 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_multimedia.png?itok=sjtP9sjA 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_multimedia.png?itok=RCDUvAGm 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_multimedia.png?itok=wT-o0K-g 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/2023-07/madraza_multimedia.png" alt="multimedia madraza" title="multimeda" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><div class="card-main-wrapper">
+<div class="card-main-date">
+27/07/2023</div>
+<div class="card-main-title">Canal multimedia de actividades culturales</div>
+</div>
+</span></div><div class="views-field views-field-title-1"><span class="field-content"><a href="/visitantes/agenda-cultural/canal-multimedia-actividades-culturales" hreflang="es">Canal multimedia de actividades culturales</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-shared-featured-image"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_publicaciones.webp?itok=SmqUYD0y 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_publicaciones.webp?itok=sNB_8Sbl 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_publicaciones.webp?itok=9TwBitfz 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_publicaciones.webp?itok=ZqwYdyFN 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_publicaciones.webp?itok=ct2bYVQZ 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_publicaciones.webp?itok=kaDV3DPb 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_publicaciones.png?itok=SmqUYD0y 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_publicaciones.png?itok=sNB_8Sbl 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_publicaciones.png?itok=9TwBitfz 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_publicaciones.png?itok=ZqwYdyFN 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_publicaciones.png?itok=ct2bYVQZ 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_publicaciones.png?itok=kaDV3DPb 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/2023-07/madraza_publicaciones.png" alt="publicaciones de la madraza" title="publicaciones" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><div class="card-main-wrapper">
+<div class="card-main-date">
+27/07/2023</div>
+<div class="card-main-title">Publicaciones de La Madraza. Centro de Cultura Contemporánea de la Universidad de Granada</div>
+</div>
+</span></div><div class="views-field views-field-title-1"><span class="field-content"><a href="/visitantes/agenda-cultural/publicaciones-madraza-centro-cultura-contemporanea-universidad-granada" hreflang="es">Publicaciones de La Madraza. Centro de Cultura Contemporánea de la Universidad de Granada</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-shared-featured-image"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_visitas%20virtuales.webp?itok=t4bf_Rdj 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_visitas%20virtuales.webp?itok=pO65kfK7 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_visitas%20virtuales.webp?itok=Kam6Z1QB 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_visitas%20virtuales.webp?itok=8s32sx-g 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_visitas%20virtuales.webp?itok=21oT2eX9 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_visitas%20virtuales.webp?itok=tZkgVBOC 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/madraza_visitas%20virtuales.png?itok=t4bf_Rdj 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/madraza_visitas%20virtuales.png?itok=pO65kfK7 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/madraza_visitas%20virtuales.png?itok=Kam6Z1QB 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/madraza_visitas%20virtuales.png?itok=8s32sx-g 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/madraza_visitas%20virtuales.png?itok=21oT2eX9 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/madraza_visitas%20virtuales.png?itok=tZkgVBOC 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/2023-07/madraza_visitas%20virtuales.png" alt="visitas virtuales" title="virtuales" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><div class="card-main-wrapper">
+<div class="card-main-date">
+27/07/2023</div>
+<div class="card-main-title">Visitas Virtuales a actividades de Extensión Universitaria</div>
+</div>
+</span></div><div class="views-field views-field-title-1"><span class="field-content"><a href="/visitantes/agenda-cultural/visitas-virtuales-actividades-extension-universitaria" hreflang="es">Visitas Virtuales a actividades de Extensión Universitaria</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-shared-featured-image"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/cacocu.webp?itok=41Ec5L3S 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/cacocu.webp?itok=HghlyBAv 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/cacocu.webp?itok=-d2maf3z 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/cacocu.webp?itok=-9cgv67F 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/cacocu.webp?itok=zNriBCEi 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/cacocu.webp?itok=FUl6Eud5 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_0_479_/public/2023-07/cacocu.png?itok=41Ec5L3S 1x, /sites/default/files/styles/home_banners_2dpr_0_479_/public/2023-07/cacocu.png?itok=HghlyBAv 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_480_895_/public/2023-07/cacocu.png?itok=-d2maf3z 1x, /sites/default/files/styles/home_banners_2dpr_480_895_/public/2023-07/cacocu.png?itok=-9cgv67F 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_banners_1dpr_896_/public/2023-07/cacocu.png?itok=zNriBCEi 1x, /sites/default/files/styles/home_banners_2dpr_896_/public/2023-07/cacocu.png?itok=FUl6Eud5 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/2023-07/cacocu.png" alt="logo cacocu" title="cacocu" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><div class="card-main-wrapper">
+<div class="card-main-date">
+27/07/2023</div>
+<div class="card-main-title">CaCoCu. Canal de Cultura Contemporánea</div>
+</div>
+</span></div><div class="views-field views-field-title-1"><span class="field-content"><a href="/visitantes/agenda-cultural/cacocu-canal-cultura-contemporanea" hreflang="es">CaCoCu. Canal de Cultura Contemporánea</a></span></div></div>
+
+    </div>
+  
+          <div class="more-link"><a href="/visitantes/agenda-cultural/portada">Todos los eventos</a></div>
+
+      </div>
+</div>
+
+  </div>
+</div>
+    </div>
+        <div id="four" class="section region-four">
+      <div class="block-region-four"><div class="views-element-container block block-views block-views-blocktimeless-content-block-1">
+  
+      <h2>Temas destacados</h2>
+    
+      <div><div class="view view-timeless-content view-id-timeless_content view-display-id-block_1 js-view-dom-id-6a5d712f7574d885f198efa964f6120e15060b449ae92bc10fde726c4885e516">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=eOamnaUV 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=jhcypE0C 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=UomfAqhR 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=LJ6HymgU 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=x7o6qw-0 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.webp?h=e16869f5&amp;itok=AwNp39Xx 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=eOamnaUV 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=jhcypE0C 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=UomfAqhR 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=LJ6HymgU 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=x7o6qw-0 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg?h=e16869f5&amp;itok=AwNp39Xx 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2021-09/horizonte-v-centenario.jpg" alt="Composición con texto e imagen" title="Horizonte V Centenario" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Conmemoración</div>
+<a href="/destacado/horizonte-v-centenario" title="Horizonte V Centenario "><div class="card-main-wrapper">
+<div class="card-main-title">Horizonte V Centenario</div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=Sj2ck70Q 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=7Gs_wc9n 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=YgA2JYPU 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=z16n48na 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=caj_5w20 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/investigadora.webp?h=086ffae9&amp;itok=PZ3vX2nz 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=Sj2ck70Q 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=7Gs_wc9n 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=YgA2JYPU 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=z16n48na 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=caj_5w20 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/investigadora.jpg?h=086ffae9&amp;itok=PZ3vX2nz 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2021-01/investigadora.jpg" alt="Investigadora" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Investigación</div>
+<a href="https://www.ugr.es/destacado/universidad-de-granada-lider-investigacion" title="La Universidad de Granada, líder en investigación "><div class="card-main-wrapper">
+<div class="card-main-title">La Universidad de Granada, líder en investigación</div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-imagen-galeria"><div class="field-content"><article class="media media-galeria-contenido-atemporal view-mode-default media--type- media--unpublished">
+  
+      
+            <div class="field field--name-field-imagen field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=qUp9XT9z 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=ZRMWUFUF 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=IUqTwfLB 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=MHnOfj2S 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=spGnPy-J 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.webp?itok=sH7_q90B 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=qUp9XT9z 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=ZRMWUFUF 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=IUqTwfLB 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=MHnOfj2S 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=spGnPy-J 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg?itok=sH7_q90B 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/gallery/contenido_atemporal/estudiantes_fuente_nueva_atemporal.jpg" alt="Estudiantes por los paseillos universitarios en el campus de Fuentenueva" typeof="foaf:Image" />
+
+  </picture>
+
+</div>
+      
+  </article>
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Nuevos estudiantes</div>
+<a href="/destacado/Informacion-para-nuevos-estudiantes" title="Información para nuevos estudiantes  "><div class="card-main-wrapper">
+<div class="card-main-title">Información para nuevos estudiantes </div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=nhV9uhLM 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=GpfVp_HJ 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=aHORYcUD 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=sZPmAsgr 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=HW_iLQMv 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.webp?itok=JmWBTPZu 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=nhV9uhLM 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=GpfVp_HJ 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=aHORYcUD 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=sZPmAsgr 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=HW_iLQMv 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg?itok=JmWBTPZu 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2021-01/grupo-estudiantes-internacional_0.jpg" alt="Un grupo de estudiantes" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Internacionalización</div>
+<a href="/destacado/internacionalizacion" title="Una universidad abierta al mundo "><div class="card-main-wrapper">
+<div class="card-main-title">Una universidad abierta al mundo</div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=AFTV-Ywu 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=5AsXKHcC 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=_gaCq7m6 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=Q_xaULaJ 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=f-V8bdMg 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2022-11/plan-estrategico.webp?h=e19909c3&amp;itok=4pfeTCA9 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=AFTV-Ywu 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=5AsXKHcC 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=_gaCq7m6 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=Q_xaULaJ 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=f-V8bdMg 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2022-11/plan-estrategico.jpg?h=e19909c3&amp;itok=4pfeTCA9 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2022-11/plan-estrategico.jpg" alt="Texto junto a un arco" title="Plan estratégico UGR 2031" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Estrategia</div>
+<a href="/destacado/plan-estrategico-ugr-2031" title="Plan Estratégico UGR 2031 "><div class="card-main-wrapper">
+<div class="card-main-title">Plan Estratégico UGR 2031</div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=xpmbsIKV 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=PQA-G3Z1 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=tA40TxRW 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=U6UqYI2p 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=MRzIBT8O 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.webp?h=786c69a2&amp;itok=nmT7s4pl 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=xpmbsIKV 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=PQA-G3Z1 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=tA40TxRW 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=U6UqYI2p 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=MRzIBT8O 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg?h=786c69a2&amp;itok=nmT7s4pl 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2021-01/extension_universitaria_banner.jpg" alt="Grupo de niños" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Extensión Universitaria</div>
+<a href="/destacado/extension-universitaria" title="Extensión Universitaria  "><div class="card-main-wrapper">
+<div class="card-main-title">Extensión Universitaria </div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-imagen-galeria"><div class="field-content"><article class="media media-galeria-contenido-atemporal view-mode-default media--type- media--unpublished">
+  
+      
+            <div class="field field--name-field-imagen field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=_YSwuCbQ 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=96YrktDT 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=CDA_B9Qe 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=vPKX9I7G 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=XuMiZtHT 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.webp?itok=wTOUcEJY 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=_YSwuCbQ 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=96YrktDT 2x" media="(max-width: 479px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=CDA_B9Qe 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=vPKX9I7G 2x" media="(max-width: 895px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=XuMiZtHT 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg?itok=wTOUcEJY 2x" media="(min-width: 895px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/gallery/contenido_atemporal/patio-hospital-real-fuente-puerta_atemporal.jpg" alt="Patio del Hospital Real con fuente en el centro y puerta al fondo, a modo de ráfaga, una persona está pasando por la puerta" typeof="foaf:Image" />
+
+  </picture>
+
+</div>
+      
+  </article>
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Datos</div>
+<a href="/destacado/la-universidad-de-granada-en-cifras" title="La UGR en cifras "><div class="card-main-wrapper">
+<div class="card-main-title">La UGR en cifras</div>
+</div>
+</a></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image-crop"><div class="field-content">    <picture>
+                  <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=6Jb-pCQT 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=chozYMuv 2x" media="(max-width: 479px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=_ZspZUOB 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=0tzjbNf7 2x" media="(max-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=zm4fqrK5 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.webp?h=63579ff2&amp;itok=NPbfdIbM 2x" media="(min-width: 895px)" type="image/webp"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_0_479_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=6Jb-pCQT 1x, /sites/default/files/styles/home_destacado_2dpr_0_479_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=chozYMuv 2x" media="(max-width: 479px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_480_895_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=_ZspZUOB 1x, /sites/default/files/styles/home_destacado_2dpr_480_895_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=0tzjbNf7 2x" media="(max-width: 895px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/home_destacado_1dpr_896/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=zm4fqrK5 1x, /sites/default/files/styles/home_destacado_2dpr_896_/public/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png?h=63579ff2&amp;itok=NPbfdIbM 2x" media="(min-width: 895px)" type="image/png"/>
+                  <img src="/sites/default/files/imagenes/atemporal/2022-11/imagen_web_ods-ugr.png" alt="Grupo de personas y el texto ODS UGR" title="ODS UGR" typeof="foaf:Image" />
+
+  </picture>
+
+</div></div><div class="views-field views-field-title-1"><div class="etiqueta">Sostenibilidad</div>
+<a href="/destacado/estrategia-desarrollo-humano-sostenible" title="Estrategias de Desarrollo Humano Sostenible UGR 2030 "><div class="card-main-wrapper">
+<div class="card-main-title">Estrategias de Desarrollo Humano Sostenible UGR 2030</div>
+</div>
+</a></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+</div>
+    </div>
+      </div>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+        
+  </main>
+    <footer class="site-footer" role="complementary">
+    <div class="footer-content">
+                <div class="region region-content-bottom">
+    <div id="block-marcadelsitio" class="clearfix block block-system block-system-branding-block">
+  
+    
+     
+    <div class="site-name">
+                    <a href="/" title="Home" class="site-logo logoSVG">
+                <img src="/themes/custom/ugr/logo-footer.svg" alt="Universidad de Granada"/>
+            </a> 
+            </div>  
+
+    
+            </div>      
+    
+</div>
+<div id="block-arqus" class="block block-block-content block-block-contentbbf3b20d-3dcf-43db-b609-eed78c55fe40">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="arqus-logo logoSVG" href="https://www.arqus-alliance.eu/" title="Arqus alliance"><img alt="Logo Arqus alliance" src="/themes/custom/ugr/arqus-alliance.svg" /></a></p>
+</div>
+      
+  </div>
+
+  </div>
+
+                      <div class="region region-footer-menu">
+    
+<nav role="navigation" aria-labelledby="block-piedepagina-menu" id="block-piedepagina" class="block block-menu navigation menu--footer">
+      
+  <label id="block-piedepagina-menu">Enlaces destacados</label>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://calidad.ugr.es/politica">Política de calidad de la UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://defensor.ugr.es/">Defensor Universitario</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/servicios/cm" data-drupal-link-system-path="node/4754">Centro Mediterráneo UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://ceprud.ugr.es/">CEPRUD</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://cartaservicios.ugr.es/">Carta de Servicios</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://catedras.ugr.es/">Cátedras UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://secretariageneral.ugr.es/bougr/">BOUGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://secretariageneral.ugr.es/pages/convenios">Convenios</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://abierta.ugr.es/">AbiertaUGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://archivo.ugr.es/">Archivo UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/organizacion/otros-centros/centro-de-iniciativas-de-cooperacion-al-desarrollo" data-drupal-link-system-path="node/4708">CICODE</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://csirc.ugr.es/">CSIRC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/servicios/congresos" data-drupal-link-system-path="node/4760">Congresos UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://consejosocial.ugr.es/">Consejo Social</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://editorial.ugr.es/">Editorial UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/servicios/cpep" data-drupal-link-system-path="node/4768">Centro de Promoción de Empleo y Prácticas</a>
+              </li>
+                <li class="menu-item">
+        <a href="/servicios/aula-permanente-de-formacion-abierta" data-drupal-link-system-path="node/4580"> Aula Permanente de Formación Abierta</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://cic.ugr.es/">Centro de Instrumentación Científica</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/servicios/sprl" data-drupal-link-system-path="node/4852"> Salud y Prevención de Riesgos Laborales</a>
+              </li>
+                <li class="menu-item">
+        <a href="/universidad/organizacion/entidades/inspeccion-servicios" data-drupal-link-system-path="universidad/organizacion/entidades/inspeccion-servicios">Inspección de Servicios</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://unidadigualdad.ugr.es/">Unidad de Igualdad UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://canal.ugr.es/">Canal de Noticias UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://ofiweb.ugr.es/">Web UGR</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://horizontevcentenario.ugr.es/">Conmemoración Horizonte V Centenario</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            
+    </div>
+            <div class="region region-footer-submenu">
+    <div id="block-logosfooter" class="block block-ugr-general block-logos-footer-block">
+  
+    
+      <div class="logos-footer-block"><div class="logos-footer"><a href='http://www.universia.es/' title='Universia' class='excelencia-logo logoSVG'>
+                  <img src='/themes/custom/ugr/universia.svg' alt='Logo Universia' />
+              </a><a href='https://investigacion.ugr.es/pages/hrs4r' title='Human Resources Strategy for Researchers' class='excelencia-logo logoSVG'>
+                <img src='/themes/custom/ugr/excelencia.svg' alt='Human Resources Strategy for Researchers' />
+              </a><a href='https://www.aepd.es/es/pactodigital' title='Pacto Digital para la Protección de las Personas' class='pactodigital logoSVG'>
+                <img src='/themes/custom/ugr/pactodigital.svg' alt='Logo Pacto Digital para la Protección de Las Personas' />
+              </a><a href='https://www.ugr.es/universidad/noticias/ugr-recibe-sello-una-universidades-mas-transparentes-espana' title='Sello de transparencia' class='transparencia-logo logoSVG'>
+                <img src='/themes/custom/ugr/transparencia-universidades.svg' alt='Logo Sello de Transparencia Universidades 2021' />
+              </a></div></div>
+
+  </div>
+
+  </div>
+
+      </footer>
+  
+
+    <footer class="site-footer" role="contentinfo">
+        <div class="region region-footer-info">
+    
+<nav role="navigation" aria-labelledby="block-footersubmenu-menu" id="block-footersubmenu" class="block block-menu navigation menu--footer-submenu">
+            
+  <label class="visually-hidden" id="block-footersubmenu-menu">Footer submenu</label>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/accesibilidad" data-drupal-link-system-path="node/13910">Accesibilidad</a>
+              </li>
+                <li class="menu-item">
+        <a href="/condiciones-legales" data-drupal-link-system-path="node/13912">Condiciones legales</a>
+              </li>
+                <li class="menu-item">
+        <a href="/rss-noticias" data-drupal-link-system-path="node/4576">RSS Noticias</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sitemap" data-drupal-link-system-path="sitemap">Mapa web</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-copyrightblock" class="block block-ugr-general block-copyright-block">
+  
+    
+      <div class="copyright-block">&copy; 2023 Universidad de Granada</div>
+
+  </div>
+<div id="block-socialmedialinks-3" class="block-social-media-links block block-social-media-links-block">
+  
+      <h2>Síguenos en redes sociales</h2>
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/universidadgranada/"  target="_blank" aria-label="Facebook" title="Facebook" >
+        <span class='fab fa-facebook-f fa-2x'></span> Facebook
+      </a>
+    </li>
+      <li>
+      <a href="https://www.twitter.com/CanalUGR"  target="_blank" aria-label="Twitter" title="Twitter" >
+        <span class='fab fa-twitter fa-2x'></span> Twitter
+      </a>
+    </li>
+      <li>
+      <a href="https://www.youtube.com/user/UGRmedios"  target="_blank" aria-label="Youtube" title="Youtube" >
+        <span class='fab fa-youtube fa-2x'></span> Youtube
+      </a>
+    </li>
+      <li>
+      <a href="https://www.instagram.com/canalugr/"  target="_blank" aria-label="Síguenos en instagram" title="Síguenos en instagram" >
+        <span class='fab fa-instagram fa-2x'></span> Instagram
+      </a>
+    </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+  </footer>
+  
+  <div class="back-to-top"></div>
+
+</div>
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_D_8wJawH1m-H9UDH7TEHvS5mZVSqEJp8SFYjlVtnF4A.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_ItRmAixq3bwgGsMJwdeu4Z2rwJEhwCZEqSJDEVY2Ke8.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
+<script src="/sites/default/files/js/js_IPucdXasf5_zcHpwJWl1SVEfbJv3v1IjbVjridjqb1s.js"></script>
+
+  </body>
+</html>
