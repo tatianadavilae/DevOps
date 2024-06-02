@@ -1,0 +1,7 @@
+FROM node
+
+RUN npm install mongodb
+
+WORKDIR ./backend/:/home/node/app
+COPY ./backend/app.js ./home/node/app/
+
